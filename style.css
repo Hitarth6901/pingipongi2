@@ -1,0 +1,26 @@
+.div1{
+    width:100%;
+    
+    text-align: left;
+}
+.div1 button{
+    float:right;
+    border: 1px solid white;
+  
+}
+.div1 h3{
+    display: inline;
+}
+
+body{
+    background-size: cover;
+}
+h4{
+    background-color: white;
+    margin:0px;
+    line-height: 2;
+}
+ol{
+    display: inline-block;
+    width:45% ;
+}
